@@ -103,7 +103,9 @@ nav li:hover {
     margin-top: 8px;
     transform: rotate(180deg);
 }
-
+#myLinks {
+    z-index: 100;
+}
 /* header end */
 
 /* main */
